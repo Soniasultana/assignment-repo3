@@ -7,3 +7,36 @@ body {
     font-family: 'Poppins', sans-serif;
 
 }
+
+#banner img{
+    height: 100vh;
+
+}
+.carousel-item img{
+    height: 100vh;
+    
+    border-radius: 5px;
+}
+.e-banner {
+    padding-bottom: 20%;
+}
+.e-banner h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 65px;
+    line-height: 85px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.e-banner p{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+color: #fff;
+}
+
+
+
